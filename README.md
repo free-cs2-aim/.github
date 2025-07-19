@@ -3,7 +3,7 @@
 **Counter-Strike 2 (CS2)** has quickly become a major force, establishing itself as a frontrunner in the tactical first-person shooter genre. Crafted and freely distributed to gamers by Valve, this iteration represents the direct successor to CS:GO. Featuring upgraded visuals, intricate yet refined gameplay, and a core emphasis on strategic thinking and coordinated team actions, Counter-Strike 2 has confidently secured its place as a premier shooter in today's gaming landscape.
 
 
-[![3273567568](https://github.com/user-attachments/assets/69ae1fe5-e998-449f-b930-0370c385164b)](y.gy/cs-aimbotz)
+[![3273567568](https://github.com/user-attachments/assets/69ae1fe5-e998-449f-b930-0370c385164b)](https://y.gy/cs-aimbotz)
 
 ## Deconstructing the CS2 Skinchanger in the Year 2025
 

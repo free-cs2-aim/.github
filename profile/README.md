@@ -3,6 +3,8 @@
 
 
 
+[![3566437](https://github.com/user-attachments/assets/54d64027-af48-4dbb-afbf-39a58dd6c0ae)](https://y.gy/cs-aimbotz)
+
 ## Deconstructing the CS2 Skinchanger in the Year 2025
 
 The CS2 Skinchanger is a form of forbidden software used to tamper with the aesthetic components of your weapons and in-game belongings. Basically, this outside application allows users to adjust the looks of their guns and gloves inside Counter-Strike 2. Well-liked by gamers globally, it delivers the visual charm of fancy skins within the gameplay. These skins are exclusively visual modifications, affecting appearance, without touching gameplay.
@@ -52,4 +54,3 @@ Overview: Exhibits incredibly precise action, usually locking onto opponents wit
 - Glove Customization: Allows access to all available glove skins in Counter-Strike 2.
 - Agent Customization: Lets players select any obtainable character in CS2.
 - Model Customization: Changes player and map models, thereby increasing the visual element and perhaps boosting FPS performance.
-
